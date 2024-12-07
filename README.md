@@ -1,2 +1,2 @@
 # Projetos-de-estudo-JavaScript
-Projetos pessoais de estudo em JS
+Esse repositorio serve para guardar meus projetos enquanto estudo JavaScript
